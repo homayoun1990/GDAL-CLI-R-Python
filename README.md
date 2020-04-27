@@ -6,7 +6,7 @@ GDAL is a translator library for raster and vector geospatial data formats that 
 For these exercises GDAL needs to be installed, preferably using the OSGEO4W distribution package for windows os.
 The GDAL website: http://www.gdal.org
 The OSGEO4W website: http://trac.osgeo.org/osgeo4w/
-#####During these excersises you are going to use the CMD or Terminal depends on your os.
+##### During these excersises you are going to use the CMD or Terminal depends on your os.
 ### gdal-python
 
 ### gdal-r
